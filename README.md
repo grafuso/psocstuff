@@ -1,2 +1,2 @@
 # psocstuff
-This repository is made for PSoC code
+Some code for robot.
